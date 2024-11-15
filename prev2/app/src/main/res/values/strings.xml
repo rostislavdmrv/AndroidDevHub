@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pregovor_lab7</string>
+    <string name="title_activity_insert">InsertActivity</string>
+    <string name="title_activity_display">DisplayActivity</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_phone">Enter Phone</string>
+    <string name="error">Error mes...</string>
+    <string name="next">Next</string>
+</resources>

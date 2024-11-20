@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">pmiu-prep2</string>
+    <string name="dobro_utro">Добро утро</string>
+    <string name="enter_name">Enter name</string>
+    <string name="next">Начало</string>
+    <string name="how_is_your_name">Как се казваш?></string>
+    <string name="how_is_your_email">Как се email</string>
+    <string name="how_is_your_phone">Как се phone</string>
+    <string name="how_is_your_wed_address">Как се address</string>
+    <string name="error_data">невалидни данни</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_phone">Enter Phone</string>
+    <string name="enter_web_address">Enter web address </string>
+    <string name="title_activity_insert">InsertActivity</string>
+    <string name="title_activity_display">DisplayActivity</string>
+</resources>

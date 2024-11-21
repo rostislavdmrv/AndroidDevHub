@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">kontrolno2</string>
+    <string name="dobro_utro">Добро утро</string>
+    <string name="enter_name">Въведи името си</string>
+    <string name="next">Начало</string>
+    <string name="how_is_your_name">Как се казваш?</string>
+    <string name="enter_email">Какъв е твоя имейл?</string>
+    <string name="enter_phone">Какъв е твоя телефон?</string>
+    <string name="enter_webAddress">Какъв е твоя уеб адрес?</string>
+    <string name="error_mess">Невалидно въведени данни</string>
+    <string name="how_is_your_email">Въведи имейла си:</string>
+    <string name="how_is_your_phone">Въведи телефона си:</string>
+    <string name="how_is_your_web_address">Въведи уеб адреса си:</string>
+    <string name="title_activity_insert">Невали</string>
+    <string name="title_activity_display">DisplayActivity</string>
+
+
+</resources>
